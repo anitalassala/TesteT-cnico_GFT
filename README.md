@@ -27,7 +27,8 @@ processa dados de clientes.
 No código abaixo (Java), há um trecho que armazenava o CPF diretamente em texto
 plano no banco de dados:
 
-````public class Cliente {
+```java
+public class Cliente {
 public static void main(String[] args) {
 //TODO: lógica anterior
 salvarCliente(“”, “607.523.430-68”);
@@ -36,8 +37,8 @@ public boolean salvarCliente(String nome, String cpf) {
 // TODO: lógica para salvar no banco
 return true;
 }
-}````
-
+}
+```
 Você deve criar um prompt one shot para pedir ajuda ao ChatGPT, solicitando boas
 práticas de segurança para salvar esse dado.
 *Sua tarefa não é escrever o código agora.*
