@@ -1,0 +1,8 @@
+Estou desenvolvendo um sistema em Java para uma empresa e 
+necessito ajuda a respeito da proteção de dados pessoais dos clientes. 
+Atualmente, nosso sistema salva o CPF dos clientes em texto plano.
+
+Gostaria de saber as melhores práticas de segurança para proteger essa informação antes de salvá-la no banco de dados. 
+O foco não é a criptografia do banco em si,mas sim a proteção do dado no nível da aplicação. 
+Poderia listar e explicar as abordagens mais recomendadas para proteção de dados sigilosos como o CPF?
+
