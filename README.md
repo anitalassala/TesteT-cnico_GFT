@@ -7,8 +7,8 @@ Um estagiário precisa organizar suas tarefas do dia.
 Objetivo:
 - Criar uma classe Tarefa com atributos descricao e concluida.
 - Criar métodos para marcar como concluída e para exibir a tarefa no formato:
-> [ ] Descrição (se não concluída)
-> [X] Descrição (se concluída).
+  [ ] Descrição (se não concluída)
+  [X] Descrição (se concluída).
 - No programa principal, crie pelo menos 2 tarefas e altere o status de uma
 delas.
 
@@ -36,7 +36,7 @@ public boolean salvarCliente(String nome, String cpf) {
 // TODO: lógica para salvar no banco
 return true;
 }
-}
+}````
 
 Você deve criar um prompt one shot para pedir ajuda ao ChatGPT, solicitando boas
 práticas de segurança para salvar esse dado.
