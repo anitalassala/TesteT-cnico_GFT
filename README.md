@@ -14,7 +14,7 @@ Objetivo:
 delas.
 
 ### Localização da Tarefa
-`JavaApplication/src/Package´
+``JavaApplication/src/Package``
 
 ## Desafio 2 – Cálculo de Média de Temperaturas
 Situação:
