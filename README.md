@@ -13,6 +13,9 @@ Objetivo:
 - No programa principal, crie pelo menos 2 tarefas e altere o status de uma
 delas.
 
+### Localização da Tarefa
+`JavaApplication/src/Package´
+
 ## Desafio 2 – Cálculo de Média de Temperaturas
 Situação:
 O estagiário está acompanhando a temperatura da cidade durante a semana.
