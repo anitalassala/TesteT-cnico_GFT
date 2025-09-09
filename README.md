@@ -4,6 +4,7 @@
 ## Desafio 1 – Controle de Tarefas Simples
 Situação:
 Um estagiário precisa organizar suas tarefas do dia.
+
 Objetivo:
 - Criar uma classe Tarefa com atributos descricao e concluida.
 - Criar métodos para marcar como concluída e para exibir a tarefa no formato:
@@ -15,6 +16,7 @@ delas.
 ## Desafio 2 – Cálculo de Média de Temperaturas
 Situação:
 O estagiário está acompanhando a temperatura da cidade durante a semana.
+
 Objetivo:
 - Ler as temperaturas de 7 dias.
 - Calcular a média semanal.
