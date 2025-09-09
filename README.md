@@ -41,5 +41,5 @@ return true;
 ```
 Você deve criar um prompt one shot para pedir ajuda ao ChatGPT, solicitando boas
 práticas de segurança para salvar esse dado.
-*Sua tarefa não é escrever o código agora.*
+**Sua tarefa não é escrever o código agora.**
 Você deve criar o prompt que enviaria ao ChatGPT para pedir ajuda.
